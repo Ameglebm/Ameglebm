@@ -1,9 +1,13 @@
 ## Bem vindo ao meu perfil👋😁!
 
 <div>
-  
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <div style="display: flex; justify-content: space-between; align-items: center;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+   &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&langs_count=16&theme=great-gatsby"/>
+    
+</div>
+
 </div>
 <br>
 
