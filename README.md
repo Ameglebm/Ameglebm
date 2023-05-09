@@ -1,20 +1,9 @@
 ## Bem vindo ao meu perfil👋😁!
 
 <div>
-  <p style="white-space: nowrap;">
-  <div style="white-space: nowrap;">
-  <button> 
-      
-  <div style="display: flex; justify-content: space-between; align-items: center;">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-   &emsp;&emsp;
-  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&langs_count=16&theme=great-gatsby"/>
-    </button>
-  </div>
-    </p>
-    
-</div>
-
+  
+  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
 
