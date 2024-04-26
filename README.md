@@ -32,7 +32,27 @@
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-  ![Snake animation](https://github.com/Ameglebm/Ameglebm/blob/output/github-contribution-grid-snake.svg)
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
+<br><br>
+
+
+
+<details align="left">
+  <summary></summary> 
+ 
+  
+Badges by <a href="https://shields.io/">shields.io</a>.
+GitHub Stats by <a href="https://github.com/Ameglebm/github-readme-stats">Ameglebm</a>.
+Developer vector created by @andiaqua on <a href="https://picrew.me/en/">picrew</a>.
+
+<div align="right">Made with 💜 by <a href="https://github.com/Ameglebm">Ameglebm</a>.</div>
+
+
+</details>
     
   <br><p align="centre"><b>Visitas na conta</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ameglebm}/count.svg" /></p> 
