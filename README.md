@@ -1,14 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=header"/>
 
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5c5c5c&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo+ao+meu+perfil👋😁!;Me+chamo+Alisson+Amegle;Moro+no+Rio+de+janeiro;Cursando+analise+e+desenvolvimento+de+software;🧔🏻👽)](https://git.io/typing-svg)
 
 
 <div>
   
-  <img  height="160em" src="https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
+
+| ![](https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yasmin-Kibaltchich&hide=Html&theme=dracula) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&langs_count=16&theme=great-gatsby) |
+| :-: | :-: | :-: |  
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ameglebm&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
