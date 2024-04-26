@@ -1,4 +1,7 @@
-## Bem vindo ao meu perfil👋😁!
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=5c5c5c&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo+ao+meu+perfil👋😁!;Me+chamo+Alisson+Amegle;Moro+no+Rio+de+janeiro;Cursando+analise+e+desenvolvimento+de+software;🧔🏻👽)](https://git.io/typing-svg)
+
 
 <div>
   
@@ -10,7 +13,7 @@
 <div  align="center"> 
   <div style="display: inline_block"><br>
     <img align="left" height="250" alt="coding-time" src="code.gif">
-    <h1 align="center">Linguagens e icones abaixo </h1>
+    <h1 align="center">Linguagens e icones aba </h1>
       <br>
       <br>
     <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -39,18 +42,14 @@
 </picture>
 <br><br>
 
-
-
 <details align="left">
   <summary></summary> 
- 
-  
+   
 Badges by <a href="https://shields.io/">shields.io</a>.
 GitHub Stats by <a href="https://github.com/Ameglebm/github-readme-stats">Ameglebm</a>.
 Developer vector created by @andiaqua on <a href="https://picrew.me/en/">picrew</a>.
 
 <div align="right">Made with 💜 by <a href="https://github.com/Ameglebm">Ameglebm</a>.</div>
-
 
 </details>
     
@@ -58,3 +57,5 @@ Developer vector created by @andiaqua on <a href="https://picrew.me/en/">picrew<
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ameglebm}/count.svg" /></p> 
 <br>
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=footer"/>
