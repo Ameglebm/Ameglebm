@@ -32,7 +32,7 @@
   <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   
-![snake gif](https://github.com/Ameglebm/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/Ameglebm/Ameglebm/blob/output/github-contribution-grid-snake.svg)
     
   <br><p align="centre"><b>Visitas na conta</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ameglebm}/count.svg" /></p> 
