@@ -18,7 +18,7 @@ on:
 jobs:
   generate:
     permissions: 
-      contents: write
+      contents: dark
     runs-on: ubuntu-latest
     timeout-minutes: 5
     
