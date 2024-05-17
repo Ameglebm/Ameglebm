@@ -10,7 +10,7 @@
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; max-width: 800px; margin: 0 auto;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Linguagens+e+ícones" alt="Typing SVG">
+      <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Linguagens" alt="Typing SVG">
     </a>
     <div style="display: flex; justify-content: center; align-items: center;">
       <img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
