@@ -45,15 +45,6 @@
 </picture>
 <br><br>
 
-<details align="left">
-  <summary></summary> 
-   
-Badges by <a href="https://shields.io/">shields.io</a>.
-GitHub Stats by <a href="https://github.com/Ameglebm/github-readme-stats">Ameglebm</a>.
-Developer vector created by @andiaqua on <a href="https://picrew.me/en/">picrew</a>.
-
-<div align="right">Made with 💜 by <a href="https://github.com/Ameglebm">Ameglebm</a>.</div>
-
 </details>
     
   <br><p align="centre"><b>Visitas na conta</b></p>  
