@@ -4,8 +4,10 @@
 
 <div align="center">
   
-| ![](https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true) | | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&langs_count=16&theme=great-gatsby) |
-| :-: | :-: | :-: |  
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Ameglebm&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Matheus Maia Alvarez github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ameglebm&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
 <div align="center">
   <div style="display: flex; flex-direction: column; align-items: center; max-width: 800px; margin: 0 auto;">
