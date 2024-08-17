@@ -15,15 +15,23 @@
       <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Linguagens" alt="Typing SVG">
     </a>
     <div style="display: flex; justify-content: center; align-items: center;">
-      <img height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-      <img height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img height="30" width="40" alt="c-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-      <img height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-      <img height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
-      <img alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-      <img alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=js">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=cs">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=css">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=html">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=python">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=django">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=dotnet">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=fastapi">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=git">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=github">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=idea">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=linux">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nodejs">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=react">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=sqlite">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=visualstudio">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=vscode">
     </div>
     <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
   </div>
