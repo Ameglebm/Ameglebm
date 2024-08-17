@@ -40,7 +40,9 @@
 
     
   <div>
-    <a href="meu-portifolio-nine-navy.vercel.app<img"><img src="https://img.shields.io/badge/-MeuPortfólio-%23339?style=for-the-badge&logo=site&logoColor=white" target="_blank"></a>
+    <a href="https://meu-portifolio-nine-navy.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/-MeuPortfólio-%23339?style=for-the-badge&logo=site&logoColor=white" alt="Meu Portfólio">
+</a>
     <a href="mailto:amegleeu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
     <a href="https://www.linkedin.com/in/alisson-amegle-0063aa300/?trk=opento_sprofile_details" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
