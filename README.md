@@ -17,7 +17,6 @@
     <div style="display: flex; justify-content: center; align-items: center;">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=js">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=ts">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=cs">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=css">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=html">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=react">
