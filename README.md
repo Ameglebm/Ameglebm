@@ -21,9 +21,10 @@
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=html">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=react">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nodejs">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nest">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=python">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=django">
-       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=sqlite">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=sqlite">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=fastapi">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=dotnet">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=git">
@@ -32,7 +33,6 @@
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=powershell">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=visualstudio">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=vscode">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nest">
     </div>
     <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
   </div>
