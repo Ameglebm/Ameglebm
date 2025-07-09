@@ -27,6 +27,7 @@
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=sqlite">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=fastapi">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=dotnet">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=docker">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=git">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=github">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=linux">
