@@ -53,36 +53,6 @@ Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgi
 
 ---
 
-## 🛠 Tecnologias e Ferramentas
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap;">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=js" alt="JS">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=ts" alt="TS">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=css" alt="CSS">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=html" alt="HTML">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=react" alt="React">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=nodejs" alt="Node.js">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=nest" alt="NestJS">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=python" alt="Python">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=django" alt="Django">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=docker" alt="Docker">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=git" alt="Git">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=github" alt="GitHub">
-<img height="30" width="40" src="https://skillicons.dev/icons?i=vscode" alt="VSCode">
-</div>
-
----
-
-## 🔗 Contatos e Links
-
-<a href="https://meu-portifolio-nine-navy.vercel.app" target="_blank"><img src="https://img.shields.io/badge/-MeuPortfólio-%23339?style=for-the-badge&logo=site&logoColor=white"></a>
-<a href="mailto:amegleeu@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/alisson-amegle-0063aa300/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=footer"/>
 
   
@@ -107,14 +77,12 @@ Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgi
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=python">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=django">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=sqlite">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=postgres">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=fastapi">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=dotnet">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=docker">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=git">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=github">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=linux">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=powershell">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=visualstudio">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=vscode">
     </div>
     <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
