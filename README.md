@@ -142,14 +142,14 @@ Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgi
   <a href="https://www.linkedin.com/in/alisson-amegle-0063aa300/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+<!-- GitHub Contribution Snake -->
+<div align="center" style="margin-bottom: 20px;">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ameglebm/Ameglebm/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ameglebm/Ameglebm/output/github-contribution-grid-snake-dark.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ameglebm/Ameglebm/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
-    </picture>
-  </div>
-  
   <br>
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=👀+Visitas+no+perfil" alt="Typing SVG">
