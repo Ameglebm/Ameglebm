@@ -20,7 +20,7 @@ Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgi
 ## 📂 Projetos
 
 ### 1️⃣ Sistema de Gestão Empresarial (Mini ERP) - [Demo](https://eden-generation.vercel.app/)  
-- **Login para testes:** `Tests / Test2025!`  
+- **Login para testes:** `tests@tests.com / Test2025!`  
 - Multi-tenant desenvolvido com **NestJS + Prisma ORM**, cada loja tem seus próprios dados isolados.  
 - Funcionalidades: autenticação, gerenciamento de lojas, produtos, clientes, funcionários, orçamentos e controle financeiro.  
 - Estrutura Multi-Tenancy: cada loja possui um identificador único (`lojaId`) para separar dados logicamente.  
