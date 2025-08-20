@@ -56,11 +56,16 @@
   </div>
   
   <br>
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Visitas+na+conta" alt="Typing SVG">
-    </a>
-  <p align="center"><img align="center" src="https://profile-counter.glitch.me/{ameglebm}/count.svg" /></p>
-  <br>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=👀+Visitas+no+perfil" alt="Typing SVG">
+</a>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ameglebm&color=blue&style=flat&label=Visualizações" alt="Visualizações" />
+</div>
+
+<br>
+
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=footer"/>
