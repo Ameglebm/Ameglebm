@@ -59,12 +59,12 @@
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=👀+Visitas+no+perfil" alt="Typing SVG">
 </a>
+<br>
+<br>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=ameglebm&color=blue&style=flat&label=Visualizações" alt="Visualizações" />
 </div>
-
-<br>
 
 </div>
 
