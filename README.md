@@ -28,16 +28,15 @@ Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgi
 
 ---
 
-### 2️⃣ InsuCheck - Projeto de Simulação Ágil  
+### 2️⃣ InsuCheck - Projeto de Simulação Ágil - [GitHub](https://github.com/Ameglebm/AppPipocaAgil) 
 - App mobile para **controle do tratamento do diabetes**, centralizando informações e fornecendo dashboards visuais.  
 - Funcionalidades: registro de medições, acompanhamento de metas, gráficos de tendência, histórico organizado para compartilhar com médicos.  
 - Diferenciais: armazenamento seguro em nuvem, acesso multiplataforma, interface intuitiva.  
-- Tecnologias: React Native, JavaScript, Expo, Redux, Axios, TypeScript, NestJS, Prisma, PostgreSQL, Express, Swagger.  
-- [GitHub](https://github.com/Ameglebm/AppPipocaAgil)  
+- Tecnologias: React Native, JavaScript, Expo, Redux, Axios, TypeScript, NestJS, Prisma, PostgreSQL, Express, Swagger.    
 
 ---
 
-### 3️⃣ ImobiFácil - Em Andamento  
+### 3️⃣ ImobiFácil - Em Andamento - [GitHub](https://github.com/Ameglebm/backend)
 - Sistema de gestão imobiliária com autenticação via **Google OAuth 2.0** e **RBAC**.  
 - Funcionalidades: cadastro de corretores e clientes, gerenciamento de imóveis e dados complementares, chat em tempo real.  
 - Tecnologias: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Docker, Kubernetes, Redis, Socket.IO, Helmet, Swagger, Bcrypt, Rate Limiter, Google OAuth, Autoguard, Axios.  
