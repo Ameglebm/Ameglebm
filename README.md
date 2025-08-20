@@ -43,15 +43,63 @@ Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgi
 
 ---
 
-## 🎓 Cursos e Formação
+## 🎓 Cursos e Formação  
 
-- **Faculdade ADS** - em andamento  
-- **Curso JavaScript + TypeScript** do básico ao avançado (front-end + back-end)  
-- **Curso Python + Django + SQLite + HTML + CSS** - concluído há 1 ano e 8 meses  
-- **Curso de Inglês - IRFS** - cursando  
-- Conhecimentos em Markdown, SOLID, código limpo, MVC  
+<details>
+  <summary><strong>🏫 Faculdade em Análise e Desenvolvimento de Sistemas (ADS) – em andamento</strong></summary>
 
----
+  - Fundamentos de programação e algoritmos  
+  - Estruturas de dados  
+  - Banco de dados relacionais (SQL)  
+  - Engenharia de software e metodologias ágeis  
+  - Desenvolvimento web e mobile  
+  - Arquitetura de software e padrões de projeto  
+
+</details>
+
+<details>
+  <summary><strong>📘 Formação JavaScript + TypeScript – em andamento</strong></summary>
+
+  - JavaScript moderno (ES6+)  
+  - TypeScript do básico ao avançado  
+  - Node.js + Express + MongoDB/MySQL – desenvolvimento de APIs REST, autenticação JWT e CRUD  
+  - HTML + CSS + Banco de Dados SQL  
+  - Next.js + React + Strapi – desenvolvimento web moderno  
+  - Princípios de Programação (POO, SOLID e Clean Code)  
+  - Testes automatizados com Jest  
+  - Design Patterns (GoF)  
+  - Deploy e Infraestrutura: Linux, NGINX, PM2, SSL/TLS, Git e SSH  
+
+</details>
+
+<details>
+  <summary><strong>🐍 Curso Python + Django – Escola Última – concluído há 1 ano e 8 meses</strong></summary>
+
+  - Python do básico ao avançado  
+  - Django Framework  
+  - SQLite e integração com bancos relacionais  
+  - HTML e CSS aplicados ao backend  
+  - Estrutura MVC e boas práticas  
+
+</details>
+
+<details>
+  <summary><strong>🇬🇧 Curso de Inglês – IRFS – cursando</strong></summary>
+
+  - Conversação e gramática aplicada  
+  - Leitura técnica de documentação em inglês  
+
+</details>
+
+<details>
+  <summary><strong>🛠 Outros conhecimentos complementares</strong></summary>
+
+  - Markdown  
+  - SOLID  
+  - Clean Code  
+  - Arquitetura MVC  
+
+</details>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=footer"/>
 
