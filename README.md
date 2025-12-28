@@ -13,7 +13,7 @@ Me chamo **Alisson Amegle**, moro no **Rio de Janeiro**.
 Cursando **Superior em Análise e Desenvolvimento de Sistemas**.  
 Atualmente focado em **back-end** utilizando **TypeScript, Node.js, Nest.js, Docker, Kubernetes, Prisma, PostgreSQL, Bcrypt, Redis, Helmet, Google OAuth, Socket.IO, Estrutura Multi-Tenancy, Estrutura RBAC, Rate Limiter**.  
 
-Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgil** por 1 ano, incluindo **Scrum completo**: P.O, SM, QA, Designer, Front-End, Back-End, Gerente de Projetos, Versionamento no GitHub, Dailys, Plannings, Retros, Planning Poker e documentação semanal.  
+Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgil** por 1 ano e 8 meses, incluindo **Scrum completo**: P.O, SM, QA, Designer, Front-End, Back-End, Gerente de Projetos, Versionamento no GitHub, Dailys, Plannings, Retros, Planning Poker e documentação semanal.  
 
 ---
 
