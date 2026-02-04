@@ -39,7 +39,16 @@ Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgi
 ### 3️⃣ ImobiFácil - Em Andamento - [GitHub](https://github.com/Ameglebm/backend)
 - Sistema de gestão imobiliária com autenticação via **Google OAuth 2.0** e **RBAC**.  
 - Funcionalidades: cadastro de corretores e clientes, gerenciamento de imóveis e dados complementares, chat em tempo real.  
-- Tecnologias: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Docker, Kubernetes, Redis, Socket.IO, Helmet, Swagger, Bcrypt, Rate Limiter, Google OAuth, Autoguard, Axios.  
+- Tecnologias: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Docker, Kubernetes, Redis, Socket.IO, Helmet, Swagger, Bcrypt, Rate Limiter, Google OAuth, Autoguard, Axios.
+
+---
+
+  ### 4️⃣ Kontas - Aplicativo de Gestão Financeira Compartilhada - [GitHub](https://github.com/Ameglebm/kontas-back-end)  
+- Aplicativo Android para **gerenciamento financeiro entre moradores de repúblicas**, permitindo divisão e acompanhamento de despesas coletivas.  
+- Funcionalidades: gestão de despesas compartilhadas, divisão igual ou personalizada de valores, controle de contas, acompanhamento de pagamentos e notificações entre participantes.  
+- Diferenciais: autenticação segura com RBAC e Google OAuth 2.0, API GraphQL com versionamento preparado, comunicação com frontend em produção e deploy na Railway.  
+- Arquitetura: modular baseada em domínios, Repository Pattern, Service Layer Pattern, DTO Pattern, Dependency Injection, Clean Architecture, SOLID e abordagem Data-Centric.  
+- Tecnologias: NestJS, Node.js, TypeScript, Prisma ORM, PostgreSQL, GraphQL, JWT, Google OAuth 2.0, Bcrypt, Redis, Rate Limiter, Swagger, Jest, Supertest, CORS, Railway.
 
 ---
 
