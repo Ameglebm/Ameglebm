@@ -7,13 +7,105 @@
 
 ---
 
-## 👨🏻‍💻 Sobre Mim
+# 👨‍💻 Sobre Mim
 
-Me chamo **Alisson Amegle**, moro no **Rio de Janeiro**.  
-Cursando **Superior em Análise e Desenvolvimento de Sistemas**.  
-Atualmente focado em **back-end** utilizando **TypeScript, Node.js, Nest.js, Docker, Kubernetes, Prisma, PostgreSQL, Bcrypt, Redis, Helmet, Google OAuth, Socket.IO, Estrutura Multi-Tenancy, Estrutura RBAC, Rate Limiter**.  
+📍 Rio de Janeiro – Brasil  
+🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
+🚀 Desenvolvedor **Back-End**
 
-Tenho experiência com projetos ágeis, simulando projetos reais no **PipocaÁgil** por 1 ano e 8 meses, incluindo **Scrum completo**: P.O, SM, QA, Designer, Front-End, Back-End, Gerente de Projetos, Versionamento no GitHub, Dailys, Plannings, Retros, Planning Poker e documentação semanal.  
+---
+Tenho forte interesse em desenvolvimento de sistemas robustos, modelagem de dados e construção de soluções que priorizam organização, manutenibilidade e performance.
+
+## 🧠 Perfil Profissional
+
+Sou desenvolvedor com foco em **Back-End**, atuando principalmente com **TypeScript** e **Node.js**, criando APIs **escaláveis, seguras e bem estruturadas**, sempre aplicando boas práticas de arquitetura e engenharia de software.
+
+Tenho forte interesse na construção de sistemas robustos, modelagem de dados e desenvolvimento de soluções que priorizam **organização, manutenibilidade, segurança e performance**.
+
+---
+
+## ⚙️ Stack Técnica
+
+### 💻 Linguagens & Runtime
+TypeScript • JavaScript • Node.js  
+
+### 🧩 Frameworks & Arquitetura
+NestJS • Clean Architecture • SOLID • Repository Pattern • Service Layer • DTO Pattern • Dependency Injection • Arquitetura Modular Orientada a Domínio • Layer Architecture • Guards e Middlewares customizados
+
+### 🗄️ Banco de Dados & Modelagem
+Prisma ORM • PostgreSQL • Modelagem Relacional • Data-Centric Design • Multi-Tenant Architecture  
+
+### 🔐 Segurança & Autenticação
+JWT (HS256 / RS256) • Guards personalizados • Google OAuth 2.0 • RBAC • Bcrypt • Rate Limiter • Helmet • Tratamento Global de Exceções
+
+### 🧪 Qualidade e Testes
+Jest • Supertest • Testes Unitários • Testes E2E • Estruturação por camadas (Flow, Contract e Security Tests) • CI/CD Pipeline (em implementação)
+
+### 🌐 APIs & Integrações
+REST • GraphQL • Swagger • Versionamento de APIs • Integração com aplicações mobile e web  
+
+### ⚡ Infraestrutura & Performance
+Redis • Docker • Conceitos com Kubernetes • Deploy em Cloud (Railway e similares)  
+
+---
+
+## 👥 Experiência Ágil
+
+Atuo há **1 ano e 8 meses (e em continuidade)** no **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares, vivenciando na prática ambientes profissionais baseados em Scrum.
+
+<table>
+<tr>
+<td valign="top" style="border-right:1px solid #ccc; padding:10px;">
+
+<b>🧩 Vivência em Papéis</b><br><br>
+
+• Product Owner <br>
+• Scrum Master <br>
+• QA <br>
+• Designer <br>
+• Front-End <br>
+• Back-End <br>
+• Gestão de Projetos
+
+</td>
+
+<td valign="top" style="border-right:1px solid #ccc; padding:10px;">
+
+<b>📅 Cerimônias e Práticas</b><br><br>
+
+• Dailys <br>
+• Sprint <br>
+• Planning <br>
+• Retrospectivas <br>
+• Planning Poker <br>
+• Versionamento com GitHub <br>
+• Documentação contínua
+
+</td>
+
+<td valign="top" style="padding:10px;">
+
+<b>🏗️ Experiência com Desenvolvimento de Sistemas</b><br><br>
+
+✔ Aplicações Multi-Tenant <br>
+✔  Sistemas financeiros compartilhados com divisão personalizada de despesas, controle de pagamentos e responsabilidades entre usuários em ambiente de produção
+ <br>
+✔ Aplicativos mobile integrados com backend <br>
+✔ Sistemas com autenticação avançada e controle de permissões (RBAC / OAuth / JWT) <br>
+✔ Arquiteturas modulares orientadas a domínio <br>
+✔ APIs REST e GraphQL com arquitetura modular <br>
+✔ Modelagem de dados e regras de negócio complexas <br>
+✔ Arquiteturas modulares orientadas a domínio
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🚀 Conhecimentos em Evolução
+
+EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimização GraphQL / N+1) • WebSockets (Socket.IO)
 
 ---
 
