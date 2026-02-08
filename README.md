@@ -13,7 +13,6 @@
 🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
 🚀 Desenvolvedor **Back-End**
 
----
 Tenho forte interesse em desenvolvimento de sistemas robustos, modelagem de dados e construção de soluções que priorizam organização, manutenibilidade e performance.
 
 ## 🧠 Perfil Profissional
