@@ -210,7 +210,6 @@ EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimiz
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=ts">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=css">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=html">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=react">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nodejs">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nest">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=python">
@@ -223,6 +222,8 @@ EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimiz
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=github">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=linux">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=vscode">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=redis">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=rabbitmq">
     </div>
     <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
   </div>
