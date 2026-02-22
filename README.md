@@ -56,7 +56,7 @@ Atuo há **1 ano e 8 meses (e em continuidade)** no **Pipoca Ágil**, participan
 <tr>
 <td valign="top" style="border-right:1px solid #ccc; padding:10px;">
 
-<b>🧩 Vivência em Papéis</b><br><br>
+<b>🧩 Experiecia com simulação agil e time com </b><br><br>
 
 • Product Owner <br>
 • Scrum Master <br>
