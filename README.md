@@ -26,7 +26,7 @@ Tenho forte interesse na construção de sistemas robustos, modelagem de dados e
 ## ⚙️ Stack Técnica
 
 ### 💻 Linguagens & Runtime
-TypeScript • JavaScript • Node.js  
+TypeScript • JavaScript • Node.js  • Python • Django
 
 ### 🧩 Frameworks & Arquitetura
 NestJS • Clean Architecture • SOLID • Repository Pattern • Service Layer • DTO Pattern • Dependency Injection • Arquitetura Modular Orientada a Domínio • Layer Architecture • Guards e Middlewares customizados
