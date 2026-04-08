@@ -44,13 +44,16 @@ Jest • Supertest • Testes Unitários • Testes E2E • Estruturação por c
 REST • GraphQL • Swagger • Versionamento de APIs • Integração com aplicações mobile e web  
 
 ### ⚡ Infraestrutura & Performance
-Redis • Docker • Conceitos com Kubernetes • Deploy em Cloud (Railway e similares)  
+Redis • RabbitMQ • Docker • GitHub Actions • Git Flow • Conceitos com Kubernetes • Deploy em Cloud (Railway e similares)  
+
+### 📈 Observabilidade (em aprendizado)
+Grafana • Prometheus • Terraform
 
 ---
 
 ## 👥 Experiência Ágil
 
-Atuo há **1 ano e 8 meses (e em continuidade)** no **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares, vivenciando na prática ambientes profissionais baseados em Scrum.
+Atuo há **2 anos (e em continuidade)** no **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares, vivenciando na prática ambientes profissionais baseados em Scrum.
 
 <table>
 <tr>
@@ -87,14 +90,12 @@ Atuo há **1 ano e 8 meses (e em continuidade)** no **Pipoca Ágil**, participan
 <b>🏗️ Experiência com Desenvolvimento de Sistemas</b><br><br>
 
 ✔ Aplicações Multi-Tenant <br>
-✔  Sistemas financeiros compartilhados com divisão personalizada de despesas, controle de pagamentos e responsabilidades entre usuários em ambiente de produção
- <br>
+✔ Sistemas financeiros compartilhados com divisão personalizada de despesas, controle de pagamentos e responsabilidades entre usuários em ambiente de produção <br>
 ✔ Aplicativos mobile integrados com backend <br>
 ✔ Sistemas com autenticação avançada e controle de permissões (RBAC / OAuth / JWT) <br>
 ✔ Arquiteturas modulares orientadas a domínio <br>
 ✔ APIs REST e GraphQL com arquitetura modular <br>
 ✔ Modelagem de dados e regras de negócio complexas <br>
-✔ Arquiteturas modulares orientadas a domínio
 
 </td>
 </tr>
@@ -104,7 +105,7 @@ Atuo há **1 ano e 8 meses (e em continuidade)** no **Pipoca Ágil**, participan
 
 ### 🚀 Conhecimentos em Evolução
 
-EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimização GraphQL / N+1) • WebSockets (Socket.IO)
+EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQL / N+1) • WebSockets (Socket.IO) • Terraform • Grafana • Prometheus
 
 ---
 
@@ -119,27 +120,40 @@ EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimiz
 
 ---
 
-### 2️⃣ InsuCheck - Projeto de Simulação Ágil - [GitHub](https://github.com/Ameglebm/AppPipocaAgil) 
+### 2️⃣ InsuCheck - Projeto de Simulação Ágil - [Demo](https://insu-check.vercel.app/) | [GitHub](https://github.com/Ameglebm/AppPipocaAgil)
 - App mobile para **controle do tratamento do diabetes**, centralizando informações e fornecendo dashboards visuais.  
 - Funcionalidades: registro de medições, acompanhamento de metas, gráficos de tendência, histórico organizado para compartilhar com médicos.  
 - Diferenciais: armazenamento seguro em nuvem, acesso multiplataforma, interface intuitiva.  
-- Tecnologias: React Native, JavaScript, Expo, Redux, Axios, TypeScript, NestJS, Prisma, PostgreSQL, Express, Swagger.    
+- Tecnologias:  TypeScript, NestJS, Prisma, PostgreSQL, Swagger.    
 
 ---
 
 ### 3️⃣ ImobiFácil - Em Andamento - [GitHub](https://github.com/Ameglebm/backend)
 - Sistema de gestão imobiliária com autenticação via **Google OAuth 2.0** e **RBAC**.  
 - Funcionalidades: cadastro de corretores e clientes, gerenciamento de imóveis e dados complementares, chat em tempo real.  
-- Tecnologias: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Docker, Kubernetes, Redis, Socket.IO, Helmet, Swagger, Bcrypt, Rate Limiter, Google OAuth, Autoguard, Axios.
+- Tecnologias: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Swagger, Bcrypt, Google OAuth, Autoguard.
 
 ---
 
-  ### 4️⃣ Kontas - Aplicativo de Gestão Financeira Compartilhada - [GitHub](https://github.com/Ameglebm/kontas-back-end)  
+### 4️⃣ Kontas - Aplicativo de Gestão Financeira Compartilhada -  Aplicativo mobile em produçãoc, caso precise disponibilizo o APK
+funcional, utilizado por usuários reais.  
 - Aplicativo Android para **gerenciamento financeiro entre moradores de repúblicas**, permitindo divisão e acompanhamento de despesas coletivas.  
 - Funcionalidades: gestão de despesas compartilhadas, divisão igual ou personalizada de valores, controle de contas, acompanhamento de pagamentos e notificações entre participantes.  
-- Diferenciais: autenticação segura com RBAC e Google OAuth 2.0, API GraphQL com versionamento preparado, comunicação com frontend em produção e deploy na Railway.  
+- Diferenciais: autenticação segura com RBAC e Google OAuth 2.0, API REST, mas migrando para GraphQL com versionamento preparado, comunicação com frontend em produção e deploy na Railway.  
 - Arquitetura: modular baseada em domínios, Repository Pattern, Service Layer Pattern, DTO Pattern, Dependency Injection, Clean Architecture, SOLID e abordagem Data-Centric.  
-- Tecnologias: NestJS, Node.js, TypeScript, Prisma ORM, PostgreSQL, GraphQL, JWT, Google OAuth 2.0, Bcrypt, Redis, Rate Limiter, Swagger, Jest, Supertest, CORS, Railway.
+- Tecnologias: NestJS, Node.js, TypeScript, Prisma ORM, PostgreSQL, Docker Compose, API GraphQL, API Rest, JWT, Google OAuth 2.0, Bcrypt, Redis, RabbitMQ, Grafana, Prometheus, Rate Limiter, Swagger, Jest, Supertest, Railway, GitHub Actions, Git Flow.
+
+---
+
+### 5️⃣ Cinema Ticket API – Sistema de Venda de Ingressos - [Demo](https://sobre-cinema-api.vercel.app/) | [GitHub](https://github.com/Ameglebm/api)
+- Sistema de venda de ingressos para cinema com **controle de concorrência distribuído**.
+- Controle de race condition com lock atômico Redis SET NX EX.
+- Reserva temporária com TTL de 30s e expiração automática.
+- Arquitetura modular com Repository Pattern, Service Layer e Dependency Injection.
+- Logging estruturado com interceptor e filter globais.
+- Documentação interativa via Swagger em `/api/docs`.
+- Ambiente completo com Docker Compose.
+- Tecnologias: NestJS, TypeScript, PostgreSQL, Prisma, Redis, RabbitMQ, Docker, Swagger, Repository Pattern, Dependency Injection, DTO Pattern, SOLID, Clean Code.
 
 ---
 
@@ -224,6 +238,9 @@ EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimiz
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=vscode">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=redis">
       <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=rabbitmq">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=grafana">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=prometheus">
+      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=terraform">
     </div>
     <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
   </div>
@@ -239,6 +256,7 @@ EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimiz
   <a href="https://www.linkedin.com/in/alisson-amegle-0063aa300/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
+</div>
 <!-- GitHub Contribution Snake -->
 <div align="center" style="margin-bottom: 20px;">
   <picture>
@@ -246,7 +264,7 @@ EDA • Microsserviços • RabbitMQ • Observer Pattern • DataLoader (Otimiz
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ameglebm/Ameglebm/output/github-contribution-grid-snake-dark.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ameglebm/Ameglebm/output/github-contribution-grid-snake.svg">
   </picture>
-</div
+</div>
   
   <br>
 <a href="https://git.io/typing-svg">
