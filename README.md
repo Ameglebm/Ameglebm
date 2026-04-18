@@ -215,39 +215,25 @@ funcional, utilizado por usuários reais.
 </details>
 
 <div align="center">
-  <div style="display: flex; flex-direction: column; align-items: center; max-width: 800px; margin: 0 auto;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Linguagens" alt="Typing SVG">
-    </a>
-    <div style="display: flex; justify-content: center; align-items: center;">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=js">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=ts">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=css">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=html">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nodejs">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=nest">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=python">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=django">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=sqlite">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=postgres">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=fastapi">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=docker">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=git">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=github">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=linux">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=vscode">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=redis">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=rabbitmq">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=grafana">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=prometheus">
-      <img height="30" width="40" alt="nodejs-icon" src="https://skillicons.dev/icons?i=terraform">
-    </div>
-    <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
-  </div>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Linguagens" alt="Typing SVG">
+</a>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,nest,python,django,sqlite,postgres,fastapi,docker,git,github,linux" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,redis,rabbitmq,grafana,prometheus,terraform" />
+</p>
+
+<img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
+
 </div>
+
 <!-- Badges -->
 <div align="center">
-  <a href="https://portifolio-4why23ej0-alissons-projects-dfb1c17a.vercel.app/">
+  <a href="https://portifolio-silk-two-88.vercel.app/">
     <img src="https://img.shields.io/badge/-MeuPortfólio-%23339?style=for-the-badge&logo=vercel&logoColor=white" alt="Meu Portfólio">
   </a>
   <a href="mailto:amegledev@gmail.com">
@@ -257,6 +243,7 @@ funcional, utilizado por usuários reais.
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
+
 <!-- GitHub Contribution Snake -->
 <div align="center" style="margin-bottom: 20px;">
   <picture>
