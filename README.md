@@ -6,13 +6,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=344084&size=38&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+perfil!+👋😁;Me+chamo+Alisson+Amegle;Sou+do+Rio+de+Janeiro+🌊;Movido+a+café,+código+e+curiosidade+☕;De+Python+ao+TypeScript+sem+olhar+pra+trás+🐍➡️;APIs+que+escalam,+código+que+se+mantém+🧱;NestJS+%2B+☕+autodidata+📚+por+natureza;Curioso+👀+e+fissurado+em+código+👨‍💻)](https://git.io/typing-svg)
 
 <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/📍 Rio de Janeiro – Brasil-%23344084?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🚀 Back--End Developer-%23344084?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎓 ADS | Em Andamento-%23344084?style=for-the-badge&logoColor=white"/>
-</p>
-
 </div>
 
 ---
