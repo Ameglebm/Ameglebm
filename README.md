@@ -9,17 +9,17 @@
 ---
 
 ## 👨‍💻 Quem sou eu?
-Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 — e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
+Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
 
-Minha jornada na tecnologia começou com **Python e Django**, mas foi quando descobri o universo do **TypeScript com Node.js** que realmente me encontrei. Desde então, mergulhei fundo em **arquitetura de software**, **padrões de projeto** e na construção de **APIs robustas que resolvem problemas reais** — não só APIs que "funcionam", mas APIs que **escalam, são seguras e fáceis de manter**.
+Minha jornada na tecnologia começou com **Python e Django**, mas foi quando descobri o universo do **TypeScript com Node.js** que realmente me encontrei. Desde então, mergulhei fundo em **arquitetura de software**, **padrões de projeto** e na construção de **APIs robustas que resolvem problemas reais** não só APIs que "funcionam", mas APIs que **escalam, são seguras e fáceis de manter**.
 
 Hoje trabalho com **NestJS** aplicando no dia a dia princípios como **Clean Architecture**, **SOLID** e **Domain-Driven Design**. Tenho projetos **reais em produção com usuários ativos**, o que me deu uma visão muito prática sobre os desafios que só aparecem quando o sistema encontra o mundo real.
 
 ## 🚀 O que me move?
 
-Não sou apenas alguém que escreve código — sou alguém que pensa em **como esse sistema vai se comportar daqui a 6 meses**, em como **outro desenvolvedor vai entender o que escrevi**, e em como garantir que os **dados dos usuários estejam seguros**. Gosto de ir fundo nos **porquês** por trás de cada decisão técnica.
+Não sou apenas alguém que escreve código sou alguém que pensa em **como esse sistema vai se comportar daqui a 6 meses**, em como **outro desenvolvedor vai entender o que escrevi**, e em como garantir que os **dados dos usuários estejam seguros**. Gosto de ir fundo nos **porquês** por trás de cada decisão técnica.
 
-Tenho **2+ anos de experiência prática em times ágeis** pelo **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares — vivenciando **Scrum de verdade**: dailys, plannings, sprints e retrospectivas. Além do Back-End, já passei pelas cadeiras de **Product Owner, QA, Designer, Front-End e Scrum Master**, o que me deu uma **visão 360° do desenvolvimento de produto** e facilitou muito minha comunicação com times inteiros.
+Tenho **2+ anos de experiência prática em times ágeis** pelo **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares e vivenciando **Scrum de verdade** dailys, plannings, sprints e retrospectivas. Durante essa jornada, tive contato direto com outras áreas além do Back-End: conheço os **padrões e expectativas do QA** sei estruturar o código e documentar pensando em facilitar a criação e execução de testes; entendo como o **Scrum Master** conduz o time e o que ele precisa para que o processo flua; e sei como o **Product Owner** organiza e prioriza o que será desenvolvido. Não faço o trabalho deles mas entender como eles pensam e o que esperam me torna um desenvolvedor que **arquiteta e planeja sistemas** de forma mais consciente, facilitando muito minha comunicação e colaboração com times inteiros.
 
 ---
 
