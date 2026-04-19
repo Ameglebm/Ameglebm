@@ -7,14 +7,14 @@
 
 </div>
 
+---
+
 ## 👨‍💻 Quem sou eu?
 Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 — e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
 
 Minha jornada na tecnologia começou com **Python e Django**, mas foi quando descobri o universo do **TypeScript com Node.js** que realmente me encontrei. Desde então, mergulhei fundo em **arquitetura de software**, **padrões de projeto** e na construção de **APIs robustas que resolvem problemas reais** — não só APIs que "funcionam", mas APIs que **escalam, são seguras e fáceis de manter**.
 
 Hoje trabalho com **NestJS** aplicando no dia a dia princípios como **Clean Architecture**, **SOLID** e **Domain-Driven Design**. Tenho projetos **reais em produção com usuários ativos**, o que me deu uma visão muito prática sobre os desafios que só aparecem quando o sistema encontra o mundo real.
-
----
 
 ## 🚀 O que me move?
 
