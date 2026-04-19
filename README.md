@@ -7,8 +7,6 @@
 
 </div>
 
----
-
 ## 👨‍💻 Quem sou eu?
 Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 — e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
 
