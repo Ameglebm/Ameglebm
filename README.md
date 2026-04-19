@@ -197,6 +197,106 @@ EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQ
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ameglebm/Ameglebm/output/github-contribution-grid-snake.svg">
   </picture>
 </div>
+  </radialGradient>
+    <radialGradient id="gw" cx="45%" cy="25%" r="72%">
+      <stop offset="0%" stop-color="#fffef6"/>
+      <stop offset="75%" stop-color="#f0e8d4"/>
+      <stop offset="100%" stop-color="#e4dac0"/>
+    </radialGradient>
+    <radialGradient id="ge" cx="30%" cy="22%" r="68%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="100%" stop-color="#cccccc"/>
+    </radialGradient>
+    <radialGradient id="ghead" cx="28%" cy="22%" r="72%">
+      <stop offset="0%" stop-color="#2a2a2a"/>
+      <stop offset="100%" stop-color="#050505"/>
+    </radialGradient>
+  </defs>
+
+  <!-- Ground shadow -->
+  <ellipse cx="0" cy="265" rx="28" ry="6" fill="rgba(0,0,0,0.18)">
+    <animateTransform attributeName="transform" type="translate"
+      values="-60,0;120,0;340,0;560,0;860,0;560,0;340,0;120,0;-60,0"
+      keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1"
+      dur="13s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+    <animate attributeName="rx" values="26;32;26" dur="0.47s" repeatCount="indefinite"/>
+    <animate attributeName="ry" values="6;4;6" dur="0.47s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0.18;0.1;0.18" dur="0.47s" repeatCount="indefinite"/>
+  </ellipse>
+
+  <!-- Tux — 2D wave path movement -->
+  <g>
+    <animateTransform attributeName="transform" type="translate"
+      values="-60,258;120,155;340,260;560,148;860,258;560,148;340,260;120,155;-60,258"
+      keyTimes="0;0.125;0.25;0.375;0.5;0.625;0.75;0.875;1"
+      dur="13s" repeatCount="indefinite" calcMode="spline"
+      keySplines="0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1;0.42 0 0.58 1"/>
+
+    <!-- Vertical bob wrapper -->
+    <g>
+      <animateTransform attributeName="transform" type="translate"
+        values="0,0;0,-9;0,0" dur="0.47s" repeatCount="indefinite"/>
+
+      <!-- Tummy sheen -->
+      <ellipse cx="-4" cy="-69" rx="6" ry="11" fill="rgba(255,255,255,0.07)"/>
+
+      <!-- LEFT FOOT -->
+      <ellipse cx="-13" cy="3" rx="18" ry="6" fill="#F4A020">
+        <animateTransform attributeName="transform" type="rotate"
+          values="30,-13,3;-36,-13,3;30,-13,3" dur="0.47s" repeatCount="indefinite"/>
+      </ellipse>
+      <!-- RIGHT FOOT -->
+      <ellipse cx="13" cy="3" rx="18" ry="6" fill="#F4A020">
+        <animateTransform attributeName="transform" type="rotate"
+          values="-30,13,3;36,13,3;-30,13,3" dur="0.47s" repeatCount="indefinite"/>
+      </ellipse>
+
+      <!-- BODY -->
+      <ellipse cx="0" cy="-56" rx="28" ry="47" fill="url(#gb)"/>
+      <!-- BELLY -->
+      <ellipse cx="0" cy="-54" rx="18" ry="34" fill="url(#gw)"/>
+
+      <!-- LEFT WING -->
+      <ellipse cx="-28" cy="-56" rx="11" ry="25" fill="#0b0b0b">
+        <animateTransform attributeName="transform" type="rotate"
+          values="-8,-28,-56;24,-28,-56;-8,-28,-56" dur="0.47s" repeatCount="indefinite"/>
+      </ellipse>
+      <!-- RIGHT WING -->
+      <ellipse cx="28" cy="-56" rx="11" ry="25" fill="#0b0b0b">
+        <animateTransform attributeName="transform" type="rotate"
+          values="8,28,-56;-24,28,-56;8,28,-56" dur="0.47s" repeatCount="indefinite"/>
+      </ellipse>
+
+      <!-- HEAD -->
+      <circle cx="0" cy="-109" r="26" fill="url(#ghead)"/>
+      <!-- FACE PATCH -->
+      <ellipse cx="0" cy="-106" rx="17" ry="20" fill="url(#gw)"/>
+
+      <!-- HEAD SHINE -->
+      <ellipse cx="-10" cy="-124" rx="6" ry="4" fill="rgba(255,255,255,0.08)" transform="rotate(-25,-10,-124)"/>
+
+      <!-- EYES -->
+      <circle cx="-11" cy="-114" r="8" fill="url(#ge)"/>
+      <circle cx="11" cy="-114" r="8" fill="url(#ge)"/>
+      <circle cx="-10" cy="-114" r="4" fill="#0e0e0e"/>
+      <circle cx="12" cy="-114" r="4" fill="#0e0e0e"/>
+      <circle cx="-12.5" cy="-117" r="2.2" fill="white" opacity="0.92"/>
+      <circle cx="9.5" cy="-117" r="2.2" fill="white" opacity="0.92"/>
+      <circle cx="-9" cy="-112" r="1" fill="white" opacity="0.5"/>
+      <circle cx="13.5" cy="-112" r="1" fill="white" opacity="0.5"/>
+
+      <!-- BEAK -->
+      <path d="M-9,-95 Q0,-89 9,-95 Q4,-85 0,-83 Q-4,-85 -9,-95Z" fill="#F4A020"/>
+      <path d="M-9,-95 Q0,-90 9,-95" stroke="#c47e0c" stroke-width="1.2" fill="none"/>
+      <ellipse cx="-2" cy="-92" rx="3" ry="2" fill="rgba(255,220,100,0.35)" transform="rotate(-15,-2,-92)"/>
+
+      <!-- BLUSH -->
+      <ellipse cx="-18" cy="-107" rx="6" ry="4" fill="rgba(255,95,85,0.28)"/>
+      <ellipse cx="18" cy="-107" rx="6" ry="4" fill="rgba(255,95,85,0.28)"/>
+    </g>
+  </g>
+</svg>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=344084&size=35&center=true&vCenter=true&width=1000&lines=👀+Visitas+no+perfil" alt="Visitas no perfil">
