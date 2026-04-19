@@ -1,10 +1,12 @@
-<!-- Cabeçalho animado -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:344084,100:16213e&height=200&section=header&text=Alisson%20Amegle&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Back-End%20Developer%20%7C%20NestJS%20%7C%20TypeScript&descAlignY=58&descSize=20"/>
+
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=344084&size=38&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+perfil!+👋😁;Me+chamo+Alisson+Amegle;Sou+do+Rio+de+Janeiro+🌊;Movido+a+café,+código+e+curiosidade+☕;De+Python+ao+TypeScript+sem+olhar+pra+trás+🐍➡️;APIs+que+escalam,+código+que+se+mantém+🧱;NestJS+%2B+☕+autodidata+📚+por+natureza;Curioso+👀+e+fissurado+em+código+👨‍💻)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7289da&size=28&center=true&vCenter=true&width=1000&pause=1000&lines=Olá,+Bem-vindo+ao+meu+perfil!+👋😁;Desenvolvedor+Back-End+do+Rio+de+Janeiro+🌊;Movido+a+café,+código+e+curiosidade+☕;De+Python+ao+TypeScript+sem+olhar+pra+trás+🐍➡️;APIs+que+escalam,+código+que+se+mantém+🧱;Clean+Architecture+%2B+SOLID+no+sangue+💉;Curioso+👀+e+fissurado+em+código+👨‍💻)](https://git.io/typing-svg)
 
 </div>
+
+---
 
 ## 👨‍💻 Quem sou eu?
 Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 — e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
@@ -37,29 +39,67 @@ Alguns sistemas que já construí ou contribuí:
 
 ## ⚙️ Stack Técnica
 
+<div align="center">
+
 ### 💻 Linguagens & Runtime
-TypeScript • JavaScript • Node.js • Python • Django
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### 🧩 Frameworks & Arquitetura
-NestJS • Clean Architecture • SOLID • Repository Pattern • Service Layer • DTO Pattern • Dependency Injection • Arquitetura Modular Orientada a Domínio • Guards e Middlewares customizados
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-### 🗄️ Banco de Dados & Modelagem
-Prisma ORM • PostgreSQL • Modelagem Relacional • Data-Centric Design • Multi-Tenant Architecture
-
-### 🔐 Segurança & Autenticação
-JWT (HS256 / RS256) • Google OAuth 2.0 • RBAC • Bcrypt • Rate Limiter • Helmet • Tratamento Global de Exceções
-
-### 🧪 Qualidade e Testes
-Jest • Supertest • Testes Unitários • Testes E2E • Estruturação por camadas (Flow, Contract e Security Tests) • CI/CD Pipeline (em implementação)
+`Clean Architecture` • `SOLID` • `Repository Pattern` • `Service Layer` • `DTO Pattern` • `Dependency Injection` • `Arquitetura Modular Orientada a Domínio` • `Guards e Middlewares customizados`
 
 ### 🌐 APIs & Integrações
-REST • GraphQL • Swagger • Versionamento de APIs • Integração com aplicações mobile e web
+![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+
+`Versionamento de APIs` • `Integração com aplicações mobile e web`
+
+### 🗄️ Banco de Dados & Modelagem
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+`Modelagem Relacional` • `Data-Centric Design` • `Multi-Tenant Architecture`
+
+### 🔐 Segurança & Autenticação
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+`HS256 / RS256` • `RBAC` • `Bcrypt` • `Rate Limiter` • `Helmet` • `Tratamento Global de Exceções`
+
+### 🧪 Qualidade e Testes
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+`Supertest` • `Testes Unitários` • `Testes E2E` • `Flow / Contract / Security Tests` • `CI/CD Pipeline (em implementação)`
 
 ### ⚡ Infraestrutura & Performance
-Redis • RabbitMQ • Docker • GitHub Actions • Git Flow • Conceitos com Kubernetes • Deploy em Cloud (Railway e similares)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
+
+`Git Flow` • `Deploy em Cloud`
 
 ### 📈 Observabilidade (em aprendizado)
-Grafana • Prometheus • Terraform
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+### 🔭 Em Evolução
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
+
+`EDA` • `Microsserviços` • `Observer Pattern` • `DataLoader (GraphQL / N+1)` • `WebSockets`
+
+</div>
 
 ---
 
@@ -74,12 +114,6 @@ Atuo há **2 anos (e em continuidade)** no **Pipoca Ágil**, participando de sim
 | ✅ Dailys | ✅ Planning Poker |
 | ✅ Sprint Planning | ✅ Versionamento com GitHub |
 | ✅ Retrospectivas | ✅ Documentação contínua |
-
----
-
-### 🚀 Conhecimentos em Evolução
-
-EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQL / N+1) • WebSockets (Socket.IO) • Terraform • Grafana • Prometheus
 
 ---
 
@@ -161,9 +195,37 @@ EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQ
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=344084&size=35&center=true&vCenter=true&width=1000&lines=🛠️+Stack+%26+Ferramentas" alt="Stack e Ferramentas">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameglebm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=344084&title_color=7289da&icon_color=7289da&bg_color=0d1117&hide_border=false&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameglebm&layout=donut-vertical&theme=tokyonight&border_color=344084&title_color=7289da&bg_color=0d1117&langs_count=8"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=ameglebm&theme=tokyonight&border=344084&ring=7289da&fire=ff6b6b&currStreakLabel=7289da&background=0d1117&dates=7289da&stroke=344084)](https://git.io/streak-stats)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ameglebm&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ameglebm&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ameglebm&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,nest,python,django,sqlite,postgres,fastapi,docker,git,github,linux" />
@@ -203,4 +265,4 @@ EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQ
   <img src="https://komarev.com/ghpvc/?username=ameglebm&color=344084&style=for-the-badge&label=Visualizações" alt="Visualizações"/>
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:344084,100:1a1a2e&height=120&section=footer"/>
