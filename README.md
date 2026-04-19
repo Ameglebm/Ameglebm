@@ -55,13 +55,13 @@ Alguns sistemas que já construí ou contribuí:
 TypeScript • JavaScript • Node.js • Python • Django
 
 ### 🧩 Frameworks & Arquitetura
-NestJS • Clean Architecture • SOLID • Repository Pattern • Service Layer • DTO Pattern • Dependency Injection • Arquitetura Modular Orientada a Domínio • Layer Architecture • Guards e Middlewares customizados
+NestJS • Clean Architecture • SOLID • Repository Pattern • Service Layer • DTO Pattern • Dependency Injection • Arquitetura Modular Orientada a Domínio • Guards e Middlewares customizados
 
 ### 🗄️ Banco de Dados & Modelagem
 Prisma ORM • PostgreSQL • Modelagem Relacional • Data-Centric Design • Multi-Tenant Architecture
 
 ### 🔐 Segurança & Autenticação
-JWT (HS256 / RS256) • Guards personalizados • Google OAuth 2.0 • RBAC • Bcrypt • Rate Limiter • Helmet • Tratamento Global de Exceções
+JWT (HS256 / RS256) • Google OAuth 2.0 • RBAC • Bcrypt • Rate Limiter • Helmet • Tratamento Global de Exceções
 
 ### 🧪 Qualidade e Testes
 Jest • Supertest • Testes Unitários • Testes E2E • Estruturação por camadas (Flow, Contract e Security Tests) • CI/CD Pipeline (em implementação)
@@ -99,61 +99,50 @@ EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQ
 
 ## 📂 Projetos
 
-### 1️⃣ Sistema de Gestão Empresarial (Mini ERP) em produção - [Demo](https://eden-generation.vercel.app/)
+### 1️⃣ Sistema de Gestão Empresarial (Mini ERP) - [Demo](https://eden-generation.vercel.app/)
 - **Login para testes:** `tests@tests.com / Test2025!`
-- Multi-tenant desenvolvido com **NestJS + Prisma ORM**, cada loja tem seus próprios dados isolados.
+- Multi-tenant com **NestJS + Prisma ORM** — cada loja tem seus dados isolados por um identificador único (`lojaId`).
 - Funcionalidades: autenticação, gerenciamento de lojas, produtos, clientes, funcionários, orçamentos e controle financeiro.
-- Estrutura Multi-Tenancy: cada loja possui um identificador único (`lojaId`) para separar dados logicamente.
 - Tecnologias: NestJS, Prisma, PostgreSQL, TypeScript, Node.js.
 
 ---
 
 ### 2️⃣ InsuCheck - Projeto de Simulação Ágil - [Demo](https://insu-check.vercel.app/) | [GitHub](https://github.com/Ameglebm/AppPipocaAgil)
-- App mobile para **controle do tratamento do diabetes**, centralizando informações e fornecendo dashboards visuais.
-- Funcionalidades: registro de medições, acompanhamento de metas, gráficos de tendência, histórico organizado para compartilhar com médicos.
-- Diferenciais: armazenamento seguro em nuvem, acesso multiplataforma, interface intuitiva.
+- App mobile para **controle do tratamento do diabetes**, com dashboards visuais e histórico organizado para compartilhar com médicos.
+- Funcionalidades: registro de medições, acompanhamento de metas e gráficos de tendência.
 - Tecnologias: TypeScript, NestJS, Prisma, PostgreSQL, Swagger.
 
 ---
 
 ### 3️⃣ ImobiFácil - Em Andamento - [GitHub](https://github.com/Ameglebm/backend)
-- Sistema de gestão imobiliária com autenticação via **Google OAuth 2.0** e **RBAC**.
-- Funcionalidades: cadastro de corretores e clientes, gerenciamento de imóveis e dados complementares, chat em tempo real.
-- Tecnologias: Node.js, TypeScript, NestJS, Prisma, PostgreSQL, Swagger, Bcrypt, Google OAuth, Autoguard.
+- Sistema de gestão imobiliária com autenticação via **Google OAuth 2.0**, **RBAC** e chat em tempo real.
+- Funcionalidades: cadastro de corretores e clientes, gerenciamento de imóveis e dados complementares.
+- Tecnologias: NestJS, TypeScript, Prisma, PostgreSQL, Swagger, Bcrypt, Google OAuth.
 
 ---
 
-### 4️⃣ Kontas - Aplicativo de Gestão Financeira Compartilhada - *Aplicativo mobile em produção, utilizado por usuários reais*
-- Aplicativo Android para **gerenciamento financeiro entre moradores de repúblicas**, permitindo divisão e acompanhamento de despesas coletivas.
-- Funcionalidades: gestão de despesas compartilhadas, divisão igual ou personalizada de valores, controle de contas, acompanhamento de pagamentos e notificações entre participantes.
-- Diferenciais: autenticação segura com **RBAC** e **Google OAuth 2.0**, API REST migrando para **GraphQL** com versionamento preparado, comunicação com frontend em produção e deploy na Railway.
-- Arquitetura: modular baseada em domínios, Repository Pattern, Service Layer Pattern, DTO Pattern, Dependency Injection, Clean Architecture, SOLID e abordagem Data-Centric.
-- Tecnologias: NestJS, Node.js, TypeScript, Prisma ORM, PostgreSQL, Docker Compose, GraphQL, REST, JWT, Google OAuth 2.0, Bcrypt, Redis, RabbitMQ, Grafana, Prometheus, Rate Limiter, Swagger, Jest, Supertest, Railway, GitHub Actions, Git Flow.
+### 4️⃣ Kontas - Gestão Financeira Compartilhada - *App mobile em produção com usuários reais*
+- Aplicativo Android para **gerenciamento financeiro entre moradores de repúblicas** — divisão igual ou personalizada de despesas, controle de pagamentos e notificações entre participantes.
+- Arquitetura modular baseada em domínios com **Clean Architecture**, **SOLID** e abordagem **Data-Centric**.
+- Tecnologias: NestJS, TypeScript, Prisma ORM, PostgreSQL, GraphQL, JWT, Google OAuth 2.0, Redis, RabbitMQ, Docker, Jest, Supertest, Railway, GitHub Actions.
 
 ---
 
-### 5️⃣ Cinema Ticket API – Sistema de Venda de Ingressos - [Demo](https://sobre-cinema-api.vercel.app/) | [GitHub](https://github.com/Ameglebm/api)
-- Sistema de venda de ingressos para cinema com **controle de concorrência distribuído**.
-- Controle de race condition com lock atômico **Redis SET NX EX**.
-- Reserva temporária com **TTL de 30s** e expiração automática.
-- Arquitetura modular com Repository Pattern, Service Layer e Dependency Injection.
-- Logging estruturado com interceptor e filter globais.
-- Documentação interativa via Swagger em `/api/docs`.
-- Ambiente completo com Docker Compose.
-- Tecnologias: NestJS, TypeScript, PostgreSQL, Prisma, Redis, RabbitMQ, Docker, Swagger, SOLID, Clean Code.
+### 5️⃣ Cinema Ticket API - [Demo](https://sobre-cinema-api.vercel.app/) | [GitHub](https://github.com/Ameglebm/api)
+- API de venda de ingressos com **controle de concorrência distribuído** via lock atômico **Redis SET NX EX**.
+- Reserva temporária com **TTL de 30s**, logging estruturado com interceptors globais e documentação via Swagger em `/api/docs`.
+- Tecnologias: NestJS, TypeScript, PostgreSQL, Prisma, Redis, RabbitMQ, Docker, Swagger.
 
 ---
 
 ## 🎓 Cursos e Formação
 
 <details>
-  <summary><strong>🏫 Faculdade em Análise e Desenvolvimento de Sistemas (ADS) – em andamento</strong></summary>
+  <summary><strong>🏫 Análise e Desenvolvimento de Sistemas (ADS) – em andamento</strong></summary>
 
-  - Fundamentos de programação e algoritmos
-  - Estruturas de dados
+  - Fundamentos de programação, algoritmos e estruturas de dados
   - Banco de dados relacionais (SQL)
   - Engenharia de software e metodologias ágeis
-  - Desenvolvimento web e mobile
   - Arquitetura de software e padrões de projeto
 
 </details>
@@ -161,50 +150,34 @@ EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQ
 <details>
   <summary><strong>📘 Formação JavaScript + TypeScript – em andamento</strong></summary>
 
-  - JavaScript moderno (ES6+)
-  - TypeScript do básico ao avançado
-  - Node.js + Express + MongoDB/MySQL – desenvolvimento de APIs REST, autenticação JWT e CRUD
-  - HTML + CSS + Banco de Dados SQL
-  - Next.js + React + Strapi – desenvolvimento web moderno
-  - Princípios de Programação (POO, SOLID e Clean Code)
-  - Testes automatizados com Jest
-  - Design Patterns (GoF)
+  - JavaScript moderno (ES6+) e TypeScript do básico ao avançado
+  - Node.js + Express — APIs REST, autenticação JWT e CRUD
+  - Princípios de Programação: POO, SOLID e Clean Code
+  - Testes automatizados com Jest e Design Patterns (GoF)
   - Deploy e Infraestrutura: Linux, NGINX, PM2, SSL/TLS, Git e SSH
 
 </details>
 
 <details>
-  <summary><strong>🐍 Curso Python + Django – concluído</strong></summary>
+  <summary><strong>🐍 Python + Django – concluído</strong></summary>
 
-  - Python do básico ao avançado
-  - Django Framework
-  - SQLite e integração com bancos relacionais
-  - HTML e CSS aplicados ao backend
-  - Estrutura MVC e boas práticas
+  - Python do básico ao avançado com Django Framework
+  - Integração com bancos relacionais e estrutura MVC
 
 </details>
 
 <details>
   <summary><strong>🇬🇧 Curso de Inglês – IRFS – cursando</strong></summary>
 
-  - Conversação e gramática aplicada
-  - Leitura técnica de documentação em inglês
+  - Conversação, gramática aplicada e leitura técnica de documentação
 
 </details>
 
-<details>
-  <summary><strong>🛠 Outros conhecimentos complementares</strong></summary>
-
-  - Markdown
-  - SOLID
-  - Clean Code
-  - Arquitetura MVC
-
-</details>
+---
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?color=344084&size=35&center=true&vCenter=true&width=1000&lines=🛠️+Stack+%26+Ferramentas" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?color=344084&size=35&center=true&vCenter=true&width=1000&lines=🛠️+Stack+%26+Ferramentas" alt="Stack e Ferramentas">
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,css,html,nodejs,nest,python,django,sqlite,postgres,fastapi,docker,git,github,linux" />
@@ -215,19 +188,18 @@ EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQ
 
 <img style="margin-top: 20px;" height="250" alt="coding-time" src="https://i.giphy.com/media/JTV1xv9aadY3YLwEfy/200w.webp">
 
-</div>
+<br/><br/>
 
-<!-- Badges -->
-<div align="center">
-  <a href="https://portifolio-silk-two-88.vercel.app/">
-    <img src="https://img.shields.io/badge/-Meu Portfólio-%23344084?style=for-the-badge&logo=vercel&logoColor=white" alt="Meu Portfólio">
-  </a>
-  <a href="mailto:amegledev@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/alisson-amegle-0063aa300/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+<a href="https://portifolio-silk-two-88.vercel.app/">
+  <img src="https://img.shields.io/badge/-Meu Portfólio-%23344084?style=for-the-badge&logo=vercel&logoColor=white" alt="Meu Portfólio">
+</a>
+<a href="mailto:amegledev@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/alisson-amegle-0063aa300/">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
 
 <!-- GitHub Contribution Snake -->
@@ -239,14 +211,10 @@ EDA • Microsserviços • Observer Pattern • DataLoader (Otimização GraphQ
   </picture>
 </div>
 
-<br>
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=344084&size=35&center=true&vCenter=true&width=1000&lines=👀+Visitas+no+perfil" alt="Typing SVG">
+  <img src="https://readme-typing-svg.herokuapp.com?color=344084&size=35&center=true&vCenter=true&width=1000&lines=👀+Visitas+no+perfil" alt="Visitas no perfil">
   <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=ameglebm&color=344084&style=for-the-badge&label=Visualizações" alt="Visualizações" />
-</div>
-
+  <img src="https://komarev.com/ghpvc/?username=ameglebm&color=344084&style=for-the-badge&label=Visualizações" alt="Visualizações"/>
 </div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=footer"/>
