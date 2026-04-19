@@ -1,6 +1,6 @@
 <!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=header"/>
-<img width="100%" src="./tux-walking.svg"/>
+<img src="./tux-walking.svg" height="0" width="100%"/>
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=344084&size=38&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+perfil!+👋😁;Me+chamo+Alisson+Amegle;Sou+do+Rio+de+Janeiro+🌊;Movido+a+café,+código+e+curiosidade+☕;De+Python+ao+TypeScript+sem+olhar+pra+trás+🐍➡️;APIs+que+escalam,+código+que+se+mantém+🧱;NestJS+%2B+☕+autodidata+📚+por+natureza;Curioso+👀+e+fissurado+em+código+👨‍💻)](https://git.io/typing-svg)
