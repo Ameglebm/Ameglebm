@@ -7,18 +7,9 @@
 
 <br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/📍 Rio de Janeiro – Brasil-%23344084?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🚀 Back--End Developer-%23344084?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/🎓 ADS | Em Andamento-%23344084?style=for-the-badge&logoColor=white"/>
-</p>
-
 </div>
 
----
-
 ## 👨‍💻 Quem sou eu?
-
 Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 — e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
 
 Minha jornada na tecnologia começou com **Python e Django**, mas foi quando descobri o universo do **TypeScript com Node.js** que realmente me encontrei. Desde então, mergulhei fundo em **arquitetura de software**, **padrões de projeto** e na construção de **APIs robustas que resolvem problemas reais** — não só APIs que "funcionam", mas APIs que **escalam, são seguras e fáceis de manter**.
