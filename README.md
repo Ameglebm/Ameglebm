@@ -1,25 +1,50 @@
 <!-- Cabeçalho animado -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=344084&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=191970&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Bem+vindo+ao+meu+perfil👋😁!;Me+chamo+Alisson+Amegle;Moro+no+Rio+de+janeiro;Cursando+analise+e+desenvolvimento+de+software;🧔🏻👽)](https://git.io/typing-svg)
-
 <div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=344084&size=38&center=true&vCenter=true&width=1000&lines=Olá,+Bem-vindo+ao+meu+perfil!+👋😁;Me+chamo+Alisson+Amegle;Sou+do+Rio+de+Janeiro+🌊;Movido+a+café,+código+e+curiosidade+☕;D+Python+ao+TypeScript+sem+olhar+pra+trás+🐍➡️;APIs+que+escalam,+código+que+se+mantém+🧱;NestJS+%2B+☕+autodidata+📚;Curioso+👀+e+fissurado+em+código+👨‍💻)](https://git.io/typing-svg)
+<br/>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/📍 Rio de Janeiro – Brasil-%23344084?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ Back--End Developer-%23344084?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/🎓 ADS | Em Andamento-%23344084?style=for-the-badge&logoColor=white"/>
+</p>
+
+</div>
 
 ---
 
-# 👨‍💻 Sobre Mim
+## 👨‍💻 Quem sou eu?
 
-📍 Rio de Janeiro – Brasil  
-🎓 Cursando **Análise e Desenvolvimento de Sistemas**  
-🚀 Desenvolvedor **Back-End**
+Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 — e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
 
-Tenho forte interesse em desenvolvimento de sistemas robustos, modelagem de dados e construção de soluções que priorizam organização, manutenibilidade e performance.
+Minha jornada na tecnologia começou com **Python e Django**, mas foi quando descobri o universo do **TypeScript com Node.js** que realmente me encontrei. Desde então, mergulhei fundo em **arquitetura de software**, **padrões de projeto** e na construção de **APIs robustas que resolvem problemas reais** — não só APIs que "funcionam", mas APIs que **escalam, são seguras e fáceis de manter**.
 
-## 🧠 Perfil Profissional
+Hoje trabalho com **NestJS** aplicando no dia a dia princípios como **Clean Architecture**, **SOLID** e **Domain-Driven Design**. Tenho projetos **reais em produção com usuários ativos**, o que me deu uma visão muito prática sobre os desafios que só aparecem quando o sistema encontra o mundo real.
 
-Sou desenvolvedor com foco em **Back-End**, atuando principalmente com **TypeScript** e **Node.js**, criando APIs **escaláveis, seguras e bem estruturadas**, sempre aplicando boas práticas de arquitetura e engenharia de software.
+---
 
-Tenho forte interesse na construção de sistemas robustos, modelagem de dados e desenvolvimento de soluções que priorizam **organização, manutenibilidade, segurança e performance**.
+## 🚀 O que me move?
+
+Não sou apenas alguém que escreve código — sou alguém que pensa em **como esse sistema vai se comportar daqui a 6 meses**, em como **outro desenvolvedor vai entender o que escrevi**, e em como garantir que os **dados dos usuários estejam seguros**. Gosto de ir fundo nos **porquês** por trás de cada decisão técnica.
+
+Tenho **2+ anos de experiência prática em times ágeis** pelo **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares — vivenciando **Scrum de verdade**: dailys, plannings, sprints e retrospectivas. Além do Back-End, já passei pelas cadeiras de **Product Owner, QA, Designer, Front-End e Scrum Master**, o que me deu uma **visão 360° do desenvolvimento de produto** e facilitou muito minha comunicação com times inteiros.
+
+---
+
+## 🧠 Como eu trabalho?
+
+Quando pego um problema, **não saio codando de primeira**. Penso na **modelagem de dados**, nas **regras de negócio**, na **segurança**, na **escalabilidade** e na **manutenibilidade** antes de escrever a primeira linha. Isso reflete diretamente na **qualidade e consistência** dos projetos que entrego.
+
+Alguns sistemas que já construí ou contribuí:
+
+- 🏢 **Mini ERP Multi-Tenant** — isolamento de dados por loja e controle financeiro completo  
+- 📱 **App de gestão financeira compartilhada** — em produção com usuários reais (**Kontas**)  
+- 🏠 **Sistema imobiliário** — com **OAuth 2.0**, **RBAC** e chat em tempo real  
+- 🎬 **API de cinema** — com **controle de concorrência distribuído via Redis**  
+- 💉 **App de controle de diabetes** — dashboards e histórico médico integrado  
 
 ---
 
