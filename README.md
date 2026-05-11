@@ -8,32 +8,39 @@
 
 ---
 
-## 👨‍💻 Quem sou eu?
-Sou o **Alisson**, desenvolvedor **Back-End** nascido e criado no **Rio de Janeiro** 🌊 e assim como a cidade, gosto de coisas que têm **estrutura, movimento e propósito**.
+## 👨‍💻 Sobre mim
 
-Minha jornada na tecnologia começou com **Python e Django**, mas foi quando descobri o universo do **TypeScript com Node.js** que realmente me encontrei. Desde então, mergulhei fundo em **arquitetura de software**, **padrões de projeto** e na construção de **APIs robustas que resolvem problemas reais** não só APIs que "funcionam", mas APIs que **escalam, são seguras e fáceis de manter**.
+Desenvolvedor Back-End focado em arquitetura de software, sistemas distribuídos e APIs escaláveis utilizando principalmente **NestJS** e **TypeScript**.
 
-Hoje trabalho com **NestJS** aplicando no dia a dia princípios como **Clean Architecture**, **SOLID** e **Domain-Driven Design**. Tenho projetos **reais em produção com usuários ativos**, o que me deu uma visão muito prática sobre os desafios que só aparecem quando o sistema encontra o mundo real.
+Atualmente desenvolvo aplicações SaaS e microsserviços com foco em:
 
-## 🚀 O que me move?
+- arquitetura multi-tenant
+- comunicação realtime
+- mensageria e processamento assíncrono
+- billing por assinatura
+- escalabilidade e performance
+- segurança de APIs
+- integração entre serviços
 
-Não sou apenas alguém que escreve código sou alguém que pensa em **como esse sistema vai se comportar daqui a 6 meses**, em como **outro desenvolvedor vai entender o que escrevi**, e em como garantir que os **dados dos usuários estejam seguros**. Gosto de ir fundo nos **porquês** por trás de cada decisão técnica.
+Tenho experiência prática construindo sistemas com:
 
-Tenho **2+ anos de experiência prática em times ágeis** pelo **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares e vivenciando **Scrum de verdade** dailys, plannings, sprints e retrospectivas. Durante essa jornada, tive contato direto com outras áreas além do Back-End: conheço os **padrões e expectativas do QA** sei estruturar o código e documentar pensando em facilitar a criação e execução de testes; entendo como o **Scrum Master** conduz o time e o que ele precisa para que o processo flua; e sei como o **Product Owner** organiza e prioriza o que será desenvolvido. Não faço o trabalho deles mas entender como eles pensam e o que esperam me torna um desenvolvedor que **arquiteta e planeja sistemas** de forma mais consciente, facilitando muito minha comunicação e colaboração com times inteiros.
+- Redis
+- RabbitMQ
+- WebSockets
+- PostgreSQL
+- Prisma ORM
+- Docker
+- Stripe
+- arquiteturas orientadas a eventos
 
----
-
-## 🧠 Como eu trabalho?
-
-Quando pego um problema, **não saio codando de primeira**. Penso na **modelagem de dados**, nas **regras de negócio**, na **segurança**, na **escalabilidade** e na **manutenibilidade** antes de escrever a primeira linha. Isso reflete diretamente na **qualidade e consistência** dos projetos que entrego.
+Também possuo experiência com aplicações em produção, usuários reais e modelagem de sistemas voltados para alta manutenibilidade e crescimento contínuo.
 
 Alguns sistemas que já construí ou contribuí:
 
-- 🏢 **Mini ERP Multi-Tenant** — isolamento de dados por loja e controle financeiro completo
-- 📱 **App de gestão financeira compartilhada** — em produção com usuários reais (**Kontas**)
-- 🏠 **Sistema imobiliário** — com **OAuth 2.0**, **RBAC** e chat em tempo real
-- 🎬 **API de cinema** — com **controle de concorrência distribuído via Redis**
-- 💉 **App de controle de diabetes** — dashboards e histórico médico integrado
+- 🏢 **ERP Multi-Tenant** — sistema com isolamento de dados por empresa, controle financeiro e arquitetura modular
+- 📱 **Kontas** — aplicativo de gestão financeira compartilhada em produção com APK disponibilizada para usuários reais
+- 🎬 **Cinema Ticket API** — API com controle de concorrência distribuído utilizando Redis e locks atômicos
+- 💉 **InsuCheck** — aplicativo para acompanhamento de diabetes com dashboards e histórico de medições
 
 ---
 
@@ -43,7 +50,6 @@ Alguns sistemas que já construí ou contribuí:
 
 ### 💻 Linguagens & Runtime
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -52,68 +58,55 @@ Alguns sistemas que já construí ou contribuí:
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 
-`Clean Architecture` • `SOLID` • `Repository Pattern` • `Service Layer` • `DTO Pattern` • `Dependency Injection` • `Arquitetura Modular Orientada a Domínio` • `Guards e Middlewares customizados`
+`Clean Architecture` • `SOLID` • `DDD` • `Arquitetura Multi-Tenant`
 
-### 🌐 APIs & Integrações
+### 🌐 APIs & Comunicação
 ![REST](https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=rest&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
+![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
-`Versionamento de APIs` • `Integração com aplicações mobile e web`
+`Integração entre serviços` • `Realtime Systems`
 
-### 🗄️ Banco de Dados & Modelagem
+### 🗄️ Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-`Modelagem Relacional` • `Data-Centric Design` • `Multi-Tenant Architecture`
+`Modelagem Relacional` • `Arquitetura Multi-Tenant`
 
 ### 🔐 Segurança & Autenticação
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
-![OAuth](https://img.shields.io/badge/Google_OAuth-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![OAuth2](https://img.shields.io/badge/OAuth2-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-`HS256 / RS256` • `RBAC` • `Bcrypt` • `Rate Limiter` • `Helmet` • `Tratamento Global de Exceções`
+`JWT` • `OAuth2` • `RBAC` • `Rate Limiting`
 
-### 🧪 Qualidade e Testes
+### 🧪 Testes & Qualidade
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 
-`Supertest` • `Testes Unitários` • `Testes E2E` • `Flow / Contract / Security Tests` • `CI/CD Pipeline (em implementação)`
+`Testes Unitários` • `Testes E2E` • `CI/CD`
 
-### ⚡ Infraestrutura & Performance
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+### ⚡ Infraestrutura & Mensageria
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)
 
-`Git Flow` • `Deploy em Cloud`
+`Mensageria` • `Processamento Assíncrono` • `Deploy em container (Docker)`
 
-### 📈 Observabilidade (em aprendizado)
+### 📈 Observabilidade & Telemetria *(em aprendizado)*
+
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 
-### 🔭 Em Evolução
+`Logs centralizados` • `Métricas` • `Tracing distribuído` • `Monitoramento`
+
+### ⚡ Arquiteturas Distribuídas *(em aprendizado)*
+
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
-`EDA` • `Microsserviços` • `Observer Pattern` • `DataLoader (GraphQL / N+1)` • `WebSockets`
-
+`Microsserviços` • `Event-Driven Architecture` • `Sistemas Distribuídos`
 </div>
-
----
-
-## 👥 Experiência Ágil
-
-Atuo há **2 anos (e em continuidade)** no **Pipoca Ágil**, participando de simulações de projetos reais com equipes multidisciplinares, vivenciando na prática ambientes profissionais baseados em **Scrum**.
-
-**📅 Cerimônias e práticas que vivencio no dia a dia:**
-
-| | |
-|---|---|
-| ✅ Dailys | ✅ Planning Poker |
-| ✅ Sprint Planning | ✅ Versionamento com GitHub |
-| ✅ Retrospectivas | ✅ Documentação contínua |
 
 ---
 
