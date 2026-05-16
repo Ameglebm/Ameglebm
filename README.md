@@ -192,13 +192,6 @@ Alguns sistemas que já construí ou contribuí:
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ameglebm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=344084&title_color=7289da&icon_color=7289da&bg_color=0d1117&hide_border=false&rank_icon=github"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ameglebm&layout=donut-vertical&theme=tokyonight&border_color=344084&title_color=7289da&bg_color=0d1117&langs_count=8"/>
-
-</div>
-
-<div align="center">
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=ameglebm&theme=tokyonight&border=344084&ring=7289da&fire=ff6b6b&currStreakLabel=7289da&background=0d1117&dates=7289da&stroke=344084)](https://git.io/streak-stats)
 
 </div>
